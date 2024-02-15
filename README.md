@@ -1,4 +1,6 @@
-### Hello people :vulcan_salute:
+### <p align="center"> Hello people :vulcan_salute:</p>
+
+##
 
 Meu nome é Gabriela Andrade, sou formada em Sistemas de Informação pela UFPB e pós graduanda em Cloud Computing pela INFNET. Trabalho com desenvolvimento de software desde 2018. Atualmente sou desenvolvedora JAVA no banco Next e estou migrando para área de SRE. 👩‍💻
 
